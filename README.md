@@ -1,6 +1,6 @@
 # Колесникова Анна Сергеевна
 
-![](https://github.com/AnnSergeevn/Portfolio/blob/main/photo_2023-10-17_22-08-43.jpg)
+![][logo]
 
 К.ф.-м.н., доцент
 
@@ -99,3 +99,4 @@
 89271578359
 Email: Kolesnikova.88@mail.ru
 
+[logo]: Portfolio/photo_2023-10-17_22-08-43.jpg
